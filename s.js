@@ -43,20 +43,15 @@
 // for(let i = 1; i <= 5; i++) {
 //     result += i + " ";
 // }
-
 // console.log(result);
 
 
-// let a=Math.min(...arr);
-// console.log(a)
 // function greet(name){
 //    console.log(name);
 // }
-
 // function process(callback){
 //    callback("Naveen");
 // }
-
 // process(greet);
 // const user = {
 //    name:"Naveen",
@@ -70,10 +65,11 @@
 //     name:"Naveen",
 //     age:18
 // };
-
 // for(let key in user){
 //     console.log(key);
 // }
+
+
 // function longest(sentence){
 //     let word=sentence.split(" ");
 //     let long=word[0];
@@ -95,7 +91,6 @@
 //         }
 //     }
 //     return result;
-
 // }
 // console.log(without([
 //     { name: "Alice", grade: "A" },
@@ -114,4 +109,4 @@
 //     .map(str=>str.split("").reverse().join(""))
 //     .join(" ")
 // }
-console.log(reverse("i love js"))
+// console.log(reverse("i love js"))
