@@ -108,10 +108,10 @@
 //       a[i]=a.length.slice(0,a.length-1)+a.length-1.toUpperCase();
 // }
 
-function reverse(str){
-    return str
-    .split(" ")
-    .map(str=>str.split("").reverse().join(""))
-    .join(" ")
-}
+// function reverse(str){
+//     return str
+//     .split(" ")
+//     .map(str=>str.split("").reverse().join(""))
+//     .join(" ")
+// }
 console.log(reverse("i love js"))
